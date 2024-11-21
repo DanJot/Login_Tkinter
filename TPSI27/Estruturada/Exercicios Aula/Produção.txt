@@ -1,0 +1,32 @@
+Sector;Funcionário;Tipo problema;Tempo Paragem;Custo Reparação
+Corte;Rita Martins;Falta Material;0:09;52,50 €
+Lavagem;Miguel Caravana;Falta Material;0:25;70,83 €
+Colagem;Gabriela Feio;Outra;0:08;60,00 €
+Colagem;Augusto Coutinho;Outra;0:26;195,00 €
+Colagem;Augusto Coutinho;Outra;0:26;195,00 €
+Colagem;Gabriela Feio;Falta Material;0:21;157,50 €
+Corte;Armando Ferreira;Outra;0:32;186,67 €
+Colagem;Eduardo Talaia;Outra;0:12;90,00 €
+Colagem;Ricardo Pauleta;Falta Material;0:27;202,50 €
+Colagem;Eduardo Talaia;Outra;0:10;75,00 €
+Lavagem;António Figo;Falha Mecânica;0:06;17,00 €
+Lavagem;António Figo;Falha Mecânica;0:06;17,00 €
+Corte;Armando Ferreira;Falha Mecânica;0:22;128,33 €
+Lavagem;António Figo;Falha Mecânica;0:08;22,67 €
+Colagem;Ricardo Pauleta;Falta Material;0:06;45,00 €
+Corte;Rita Martins;Falha Mecânica;0:29;169,17 €
+Colagem;Eduardo Talaia;Falta Material;0:12;90,00 €
+Lavagem;Miguel Caravana;Falha Mecânica;0:29;82,17 €
+Corte;Manuela Osório;Outra;0:34;198,33 €
+Corte;Filipe Faria;Falta Material;0:15;87,50 €
+Lavagem;António Figo;Falha Mecânica;0:06;17,00 €
+Lavagem;António Figo;Falha Mecânica;0:06;17,00 €
+Lavagem;Miguel Caravana;Falha Mecânica;0:09;25,50 €
+Colagem;Ricardo Pauleta;Falha Mecânica;0:07;52,50 €
+Colagem;Ricardo Pauleta;Falha Mecânica;0:07;52,50 €
+Colagem;Ricardo Pauleta;Outra;0:17;127,50 €
+Corte;Manuela Osório;Falta Material;0:30;175,00 €
+Colagem;Gabriela Feio;Falta Material;0:31;232,50 €
+Corte;Rita Martins;Outra;0:18;105,00 €
+Corte;Rita Martins;Outra;0:18;105,00 €
+Corte;Rita Martins;Outra;0:18;105,00 €

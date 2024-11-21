@@ -1,0 +1,7 @@
+1;João;Obstetra
+2;Maria;Dentista
+3;Vera;Clinica Geral
+4;Manuel;Dentista
+5;Marlene;Clinica Geral
+6;António;Podologista
+10;Gabriel;Cirurgião

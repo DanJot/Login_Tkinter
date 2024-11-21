@@ -1,0 +1,9 @@
+1;Rui;Ginec
+2;Maria;Dentista
+3;Vera;Clinica Geral
+4;Manuel;Dentista
+5;Marlene;Clinica Geral
+6;António;Podologista
+10;Gabriel;Cirurgião20;Pedro;Oftalmologia
+11;Afnso;DErma
+29;Fernando;Oftal
